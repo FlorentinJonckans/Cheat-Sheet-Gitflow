@@ -6,11 +6,11 @@ Initialize empty Git repository and create a feature, realease, hotfix, support 
 `git flow feature start featureName`:
 Start the development of a new feature.
 
-`git flow feature finish featureName`:
-Finish the development of the feature.
-
 `git flow feature publish featureName`:
 Publish a feature to the remote server.
+
+`git flow feature finish featureName`:
+Finish the development of the feature.
 
 `git flow feature pull origin featureName`:
 Get a feature published by another user.
